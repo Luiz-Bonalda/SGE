@@ -59,7 +59,7 @@ git clone URL_DO_REPOSITORIO
 Acesse o diretório do projeto:
 
 ```bash
-cd nome-do-projeto
+cd SGE
 ```
 
 ### 2. Criar e ativar o ambiente virtual
